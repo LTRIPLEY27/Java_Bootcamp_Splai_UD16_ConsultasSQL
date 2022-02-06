@@ -1,0 +1,1 @@
+SELECT NOMBRE FROM articulos;
